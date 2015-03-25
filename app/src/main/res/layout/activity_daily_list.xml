@@ -9,7 +9,7 @@
 
     <ImageButton
         android:layout_width="150dp"
-        android:layout_height="50dp"
+        android:layout_height="70dp"
         android:id="@+id/mapbutton"
         android:layout_gravity="start"
         style="@style/Base.Widget.AppCompat.Button"
