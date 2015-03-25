@@ -1,4 +1,4 @@
-package com.example.wg.gpsplanner;
+package com.gmbtech.wg.gpsplanner;
 
 import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;

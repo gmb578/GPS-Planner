@@ -1,4 +1,4 @@
-package com.example.wg.gpsplanner;
+package com.gmbtech.wg.gpsplanner;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

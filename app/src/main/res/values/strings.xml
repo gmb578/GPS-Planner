@@ -3,16 +3,13 @@
     <string name="title_activity_gpsmap">Map</string>
     <string name="title">--</string>
 
-    <string-array name="guccispinner_array">
-        <item> </item>
-        <item>Calendar</item>
-        <item>Map</item>
-        <item>Daily List</item>
-    </string-array>
 
-    <string name="map_pin">Google Maps Pin</string>
     <string name="title_activity_daily_list">DailyList</string>
 
+    //Section below includes string entries for main menu dropdown
     <string name="action_settings">Settings</string>
+    <string name="action_calender">Calender</string>
+    <string name="action_map">Map</string>
+    <string name="action_dailylist">Daily List</string>
 
 </resources>
