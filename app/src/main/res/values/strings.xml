@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GPS Planner</string>
+    <string name="title_activity_gpsmap">Map</string>
+    <string name="title">--</string>
+
+    <string-array name="guccispinner_array">
+        <item> </item>
+        <item>Calendar</item>
+        <item>Map</item>
+        <item>Daily List</item>
+    </string-array>
+
+    <string name="map_pin">Google Maps Pin</string>
+    <string name="title_activity_daily_list">DailyList</string>
+
+    <string name="action_settings">Settings</string>
+
+</resources>

@@ -1,0 +1,45 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="true"
+    tools:context="com.example.wg.gpsplanner.DailyList">
+
+    <ImageButton
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:id="@+id/mapbutton"
+        android:layout_gravity="start"
+        style="@style/Base.Widget.AppCompat.Button"
+        android:theme="@style/Base.Widget.AppCompat.Button"
+        android:visibility="visible"
+        android:spinnerMode="dropdown"
+        android:popupBackground="@color/primary_dark_material_dark"
+        android:clickable="true"
+        android:contentDescription="@string/map_pin"
+        android:src="@drawable/google_pin"
+        android:cropToPadding="false" />
+    <Spinner
+        android:layout_width="210dp"
+        android:layout_height="50dp"
+        android:id="@+id/guccispinner"
+        android:layout_gravity="left"
+        style="@style/Theme.AppCompat.Light.DarkActionBar"
+        android:theme="@style/Base.Widget.AppCompat.Spinner.DropDown.ActionBar"
+        android:visibility="visible"
+        android:spinnerMode="dropdown"
+        android:clickable="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:background="#ff000000"
+        android:dropDownSelector="@android:color/darker_gray" />
+
+
+</RelativeLayout>
+
+
+
+
