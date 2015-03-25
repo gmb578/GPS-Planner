@@ -38,6 +38,7 @@
             android:name=".DailyList"
             android:label="@string/title_activity_daily_list" >
         </activity>
+        <service android:name=".LocationCheckerService"/>
 
     </application>
 
