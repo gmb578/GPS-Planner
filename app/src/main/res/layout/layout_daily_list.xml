@@ -8,9 +8,6 @@
     android:clickable="true"
     tools:context="com.example.wg.gpsplanner.DailyList">
 
-
-
-
 </RelativeLayout>
 
 
