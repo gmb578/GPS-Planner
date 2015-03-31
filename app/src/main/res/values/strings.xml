@@ -12,4 +12,7 @@
     <string name="action_map">Map</string>
     <string name="action_dailylist">Daily List</string>
 
+
+    <string name="title_activity_calendar">Calendar</string>
+
 </resources>
