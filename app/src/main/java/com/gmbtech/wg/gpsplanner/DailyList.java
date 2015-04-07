@@ -38,6 +38,9 @@ public class DailyList extends ActionBarActivity {
 
         return super.onOptionsItemSelected(item);
     }
+
+
+    //code goes here
 }
 
 
